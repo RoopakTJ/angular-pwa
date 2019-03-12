@@ -12,7 +12,9 @@ Screenshot of registration page
 
 ## Command to run
 npm install -g http-server
+
 ng build --prod
+
 http-server -c-1 dist/application/
 
 
