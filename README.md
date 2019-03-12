@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Progressive Web Application audit report- Chrome Extension
 ![](/Light_house_audit.png)
+
+
 Screenshot of registration page
+
 ![](/Application.png)
 
 
