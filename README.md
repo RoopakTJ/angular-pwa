@@ -2,7 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
+Progressive Web Application audit report- Chrome Extension
 ![](/Light_house_audit.png)
+Screenshot of registration page
 ![](/Application.png)
 
 
