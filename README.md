@@ -10,6 +10,11 @@ Screenshot of registration page
 
 ![](/Application.png)
 
+## Command to run
+npm install -g http-server
+ng build --prod
+http-server -c-1 dist/application/
+
 
 ## Development server
 
